@@ -1,2 +1,5 @@
 # Crypto-Trading-and-Analysis
-I performed exploratory data analysis on the cryptocurrency market. Then, I tested and optimized a trading strategy that will be implemented into an algorithmic trading bot.
+## The Exploratory Data Analysis notebook details the process I used to:
+Scrape pricing data from the Poloniex exchange
+Create visualizations of the historical returns of several cryptocurrencies
+Implement common statistical methods, including linear regression and correlation, to analyze the relationship between Ethereum and Ethereum Classic
