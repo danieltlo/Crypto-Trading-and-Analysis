@@ -1,4 +1,8 @@
 # Crypto-Trading-and-Analysis
+
+### Objective
+I want to perform exploratory data analysis on the cryptocurrency market to compare the historical returns and to better understand the relationship between several large market cap coins. After I have a good understanding of the historical returns of the coins, I will test and optimize a trading strategy that can be implemented into an algorithmic trading bot.
+
 ### The Exploratory Data Analysis notebook details the process I used to:
 1. Scrape pricing data from the Poloniex exchange
 2. Create visualizations of the historical returns of several cryptocurrencies
